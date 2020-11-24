@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22f3994b-acdd-4cff-a804-c8bf25e1c1c5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gLsVa8k5xyc5JDZVVv72cW3BIL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.leet242">
+    <configuration name="leet1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet1001_1200.leet1002" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet1001_1200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet201_300.leet242" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet201_300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet530" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet501_600.leet530" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet501_600.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet1_100.leet75" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetLcp19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet1_100.leetLcp19" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.leet242" />
+        <item itemvalue="Application.leet1002" />
+        <item itemvalue="Application.leet530" />
+        <item itemvalue="Application.leetLcp19" />
+        <item itemvalue="Application.leet75" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f3994b-acdd-4cff-a804-c8bf25e1c1c5" name="Default Changelist" comment="" />
+      <created>1597905231659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597905231659</updated>
+      <workItem from="1597905234057" duration="104000" />
+      <workItem from="1597906354901" duration="1532000" />
+      <workItem from="1597994550670" duration="4802000" />
+      <workItem from="1598079435855" duration="3600000" />
+      <workItem from="1598250645025" duration="5408000" />
+      <workItem from="1598335143293" duration="4462000" />
+      <workItem from="1598422875326" duration="5127000" />
+      <workItem from="1598506468911" duration="6473000" />
+      <workItem from="1598677589217" duration="4785000" />
+      <workItem from="1598850034953" duration="9612000" />
+      <workItem from="1599028186913" duration="3471000" />
+      <workItem from="1599113654851" duration="4465000" />
+      <workItem from="1599288576446" duration="4311000" />
+      <workItem from="1599378785839" duration="698000" />
+      <workItem from="1599737467929" duration="3034000" />
+      <workItem from="1599879107264" duration="6580000" />
+      <workItem from="1600067827277" duration="3766000" />
+      <workItem from="1600081696413" duration="2934000" />
+      <workItem from="1600158070930" duration="2594000" />
+      <workItem from="1600591890710" duration="3669000" />
+      <workItem from="1600653813044" duration="1238000" />
+      <workItem from="1601291021327" duration="4358000" />
+      <workItem from="1601448819522" duration="5330000" />
+      <workItem from="1601949537309" duration="9679000" />
+      <workItem from="1602031633130" duration="12576000" />
+      <workItem from="1602060669911" duration="699000" />
+      <workItem from="1602298780326" duration="7383000" />
+      <workItem from="1602464643376" duration="7039000" />
+      <workItem from="1602493160627" duration="5544000" />
+      <workItem from="1602644080123" duration="9625000" />
+      <workItem from="1602663648718" duration="775000" />
+      <workItem from="1602812765374" duration="925000" />
+      <workItem from="1602896499565" duration="1701000" />
+      <workItem from="1603091981184" duration="15000" />
+      <workItem from="1606116448571" duration="2991000" />
+      <workItem from="1606133229834" duration="167000" />
+      <workItem from="1606134189040" duration="625000" />
+      <workItem from="1606189199899" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
