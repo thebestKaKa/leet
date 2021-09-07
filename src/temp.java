@@ -57,4 +57,12 @@ public class temp {
         }
     }
 
+    public static void main(String[] args) {
+        double[] k = {1, 2, 3.4};
+        System.out.println(k[0]);
+        boolean x = false ^ false;
+        System.out.println(x);
+        x = true ^ false;
+        System.out.println(x);
+    }
 }
