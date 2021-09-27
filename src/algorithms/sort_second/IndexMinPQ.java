@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sort_second;
 
 public class IndexMinPQ<Key extends Comparable<Key>> {
     //索引优先队列

@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sort_second;
 
 public class MaxPQ<Key extends Comparable<Key>> {
     //优先队列

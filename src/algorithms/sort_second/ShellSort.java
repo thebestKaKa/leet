@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sort_second;
 
 public class ShellSort extends sort {
     public static void sort(Comparable[] a){

@@ -1,12 +1,11 @@
-package algorithms;
+package algorithms.search_third;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import algorithms.first.Queue;
 
 public class SequentialSearchST<Key, Value> {
     //顺序查找表
     private int N = 0;
-    private Node node;
+    private Node root;
 
     private class Node{
         Key key;
@@ -25,7 +24,7 @@ public class SequentialSearchST<Key, Value> {
 //                x.value = value;return;
 //            }
 //        }
-        Node t = node;
+        Node t = root;
         while (t != null){
             if (t.key.equals(key)){
                 t.value = value;
@@ -33,12 +32,12 @@ public class SequentialSearchST<Key, Value> {
             }
             t = t.next;
         }
-        node = new Node(key, value, node);
+        root = new Node(key, value, root);
         N++;
     }
 
     public Value get(Key key){
-        Node t = node;
+        Node t = root;
         while (t != null){
             if (t.key.equals(key)){ return t.value; }
             t = t.next;
@@ -47,9 +46,9 @@ public class SequentialSearchST<Key, Value> {
     }
 
     public void delete(Key key){
-        if (node == null)return;
-        if (node.key.equals(key))node = node.next;
-        Node t = node;
+        if (root == null)return;
+        if (root.key.equals(key)) root = root.next;
+        Node t = root;
         while (t != null && t.next != null){
             if (t.next.key.equals(key)){
                 t.next = t.next.next;
@@ -65,16 +64,24 @@ public class SequentialSearchST<Key, Value> {
         return get(key) != null;
     }
 
+    public Iterable<Key> keys(){
+        Queue<Key> q = new Queue<Key>();
+        for (Node node = root; node != null; node = node.next){
+            q.enqueue(node.key);
+        }
+        return q;
+    }
+
     public Iterable<Key> keys(Key low, Key high){
-        Queue<Key> q = new LinkedList<>();
-        Node t = node;
+        Queue<Key> q = new Queue<>();
+        Node t = root;
         while (t != null){
             if (t.key.equals(low)){
                 while (t != null && !t.key.equals(high)){
-                    q.add(t.key);
+                    q.enqueue(t.key);
                     t = t.next;
                 }
-                if (t != null)q.add(t.key);
+                if (t != null)q.enqueue(t.key);
                 return q;
             }
             t = t.next;

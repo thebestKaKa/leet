@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.first;
 
 import algs4.Stack;
 

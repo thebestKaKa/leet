@@ -1,11 +1,10 @@
-package algorithms;
+package algorithms.first;
 
 import java.util.Iterator;
 
-public class Queue<Item> implements Iterable{
-    // 使用链表实现队列
+public class Stack<Item> implements Iterable{
+    // 使用链表实现栈
     private Node first;
-    private Node last;
     private int N = 0;
 
     private class Node{
@@ -17,30 +16,23 @@ public class Queue<Item> implements Iterable{
 
     public int size(){return N;}
 
-    public void enqueue(Item item){
-        Node new_last = new Node();
-        new_last.item = item;
-        new_last.next = null;
-        // if (isEmpty())
-        if (last == null){
-            last = new_last;
-            first = new_last;
-        }
-        else {
-            last.next = new_last;
-            last = new_last;
-        }
+    public void push(Item item){
+        // 别名？
+        Node old_first = new Node();
+        old_first.item = first.item;
+        old_first.next = first.next;
+        /*
+         * Node old-first = first
+         * first = new Node();
+         * */
+        first.item = item;
+        first.next = old_first;
         N++;
     }
 
-    public Item dequeue(){
+    public Item pop(){
         Item item = first.item;
         first = first.next;
-        // 如果队列中只有一个节点 要处理好last
-        // if (isEmpty())
-        if (first == null){
-            last = null;
-        }
         N--;
         return item;
     }

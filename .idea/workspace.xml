@@ -1,258 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f3994b-acdd-4cff-a804-c8bf25e1c1c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Multiway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/BinarySearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Evaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/HeatSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/IndexMinPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/SequentialSearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/WeightedQuickUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/array_copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet101_200/leet128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet101_200/leet128_optiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet101_200/leet200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet101_200/leet_200_optiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet1_100/leet16_threeSumCloset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet1_100/leet23_mergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet1_100/leet56_merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet201_300/leet_215_findKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello/temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello/temp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temp.java" afterDir="false" />
+    <list default="true" id="6ea3da43-61a0-491f-bdfd-758d9d13fe06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/first/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/DepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/graph_fourth/TwoColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/search_third/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/search_third/LinearProbingHashST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/search_third/RedBlackBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/search_third/SeparateChainingHashST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet1_100/leet_98_isValidBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search_third/BinarySearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Evaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/Evaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/HeatSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/HeatSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/IndexMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/IndexMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/MaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/ResizingArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/ResizingArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search_third/SequentialSearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/WeightedQuickUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/WeightedQuickUF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/array_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/first/array_copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort_second/sort.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1gLsVa8k5xyc5JDZVVv72cW3BIL" />
+  <component name="ProjectId" id="1yiJXOL7PDv4VXAGWMXzEAbt82b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\leet\src" />
-      <recent name="D:\Projects\leet\src\algorithms" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\leet\src" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.leet_215_findKthLargest">
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.QuickSort" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet16_threeSumCloset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leet1_100.leet16_threeSumCloset" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet1_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet23_mergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leet1_100.leet23_mergeKLists" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet1_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet56_merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leet1_100.leet56_merge" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet1_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet_215_findKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leet201_300.leet_215_findKthLargest" />
-      <module name="hello" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet201_300.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.leet_215_findKthLargest" />
-        <item itemvalue="Application.leet23_mergeKLists" />
-        <item itemvalue="Application.leet56_merge" />
-        <item itemvalue="Application.leet16_threeSumCloset" />
-        <item itemvalue="Application.QuickSort" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22f3994b-acdd-4cff-a804-c8bf25e1c1c5" name="Default Changelist" comment="" />
-      <created>1597905231659</created>
+      <changelist id="6ea3da43-61a0-491f-bdfd-758d9d13fe06" name="Default Changelist" comment="" />
+      <created>1632728514923</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597905231659</updated>
-      <workItem from="1597905234057" duration="104000" />
-      <workItem from="1597906354901" duration="1532000" />
-      <workItem from="1597994550670" duration="4802000" />
-      <workItem from="1598079435855" duration="3600000" />
-      <workItem from="1598250645025" duration="5408000" />
-      <workItem from="1598335143293" duration="4462000" />
-      <workItem from="1598422875326" duration="5127000" />
-      <workItem from="1598506468911" duration="6473000" />
-      <workItem from="1598677589217" duration="4785000" />
-      <workItem from="1598850034953" duration="9612000" />
-      <workItem from="1599028186913" duration="3471000" />
-      <workItem from="1599113654851" duration="4465000" />
-      <workItem from="1599288576446" duration="4311000" />
-      <workItem from="1599378785839" duration="698000" />
-      <workItem from="1599737467929" duration="3034000" />
-      <workItem from="1599879107264" duration="6580000" />
-      <workItem from="1600067827277" duration="3766000" />
-      <workItem from="1600081696413" duration="2934000" />
-      <workItem from="1600158070930" duration="2594000" />
-      <workItem from="1600591890710" duration="3669000" />
-      <workItem from="1600653813044" duration="1238000" />
-      <workItem from="1601291021327" duration="4358000" />
-      <workItem from="1601448819522" duration="5330000" />
-      <workItem from="1601949537309" duration="9679000" />
-      <workItem from="1602031633130" duration="12576000" />
-      <workItem from="1602060669911" duration="699000" />
-      <workItem from="1602298780326" duration="7383000" />
-      <workItem from="1602464643376" duration="7039000" />
-      <workItem from="1602493160627" duration="5544000" />
-      <workItem from="1602644080123" duration="9625000" />
-      <workItem from="1602663648718" duration="775000" />
-      <workItem from="1602812765374" duration="925000" />
-      <workItem from="1602896499565" duration="1701000" />
-      <workItem from="1603091981184" duration="15000" />
-      <workItem from="1606116448571" duration="2991000" />
-      <workItem from="1606133229834" duration="167000" />
-      <workItem from="1606134189040" duration="625000" />
-      <workItem from="1606189199899" duration="26000" />
-      <workItem from="1606218060288" duration="64000" />
-      <workItem from="1613705726525" duration="34000" />
-      <workItem from="1628579858658" duration="4414000" />
-      <workItem from="1628649498255" duration="5464000" />
-      <workItem from="1628751320855" duration="13053000" />
-      <workItem from="1629186093700" duration="2188000" />
-      <workItem from="1629252119078" duration="17384000" />
-      <workItem from="1629338077607" duration="9368000" />
-      <workItem from="1629426157701" duration="4554000" />
-      <workItem from="1629532906388" duration="1422000" />
-      <workItem from="1629787875730" duration="12391000" />
-      <workItem from="1629943483980" duration="5973000" />
-      <workItem from="1629963328193" duration="4730000" />
-      <workItem from="1630716545737" duration="23719000" />
-      <workItem from="1630807128759" duration="8690000" />
-      <workItem from="1630891505632" duration="5849000" />
-      <workItem from="1630979891255" duration="3788000" />
+      <updated>1632728514923</updated>
+      <workItem from="1632728516627" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613705758363">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1632728610956">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613705758363" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632728610956" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.first;
 
 public class UF {
     //并查集

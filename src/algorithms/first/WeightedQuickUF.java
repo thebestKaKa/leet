@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.first;
 
 public class WeightedQuickUF {
     //并查集 加权quick-union

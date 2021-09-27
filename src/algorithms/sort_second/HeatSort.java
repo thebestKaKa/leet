@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sort_second;
 
 public class HeatSort extends sort {
     //堆排序

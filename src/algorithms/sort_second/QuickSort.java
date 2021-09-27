@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sort_second;
 
 import algs4.StdRandom;
 

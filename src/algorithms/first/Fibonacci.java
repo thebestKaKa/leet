@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.first;
 
 public class Fibonacci {
     public static long[] F(int N){

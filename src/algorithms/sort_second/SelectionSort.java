@@ -1,6 +1,4 @@
-package algorithms;
-
-import algs4.StdOut;
+package algorithms.sort_second;
 
 public class SelectionSort extends sort{
 

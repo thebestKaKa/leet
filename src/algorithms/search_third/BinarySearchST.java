@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.search_third;
 
 import java.util.LinkedList;
 import java.util.Queue;
